@@ -8,12 +8,6 @@
   <version>1.0-SNAPSHOT</version>
 
   <name>Example of basic Maven project</name>
-
-  <properties>
-    <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
-    <project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
-    <maven.compiler.release>11</maven.compiler.release>
-  </properties>
   <properties>
   <sonar.projectKey>cybersecure17_sonarqube</sonar.projectKey>
   <sonar.organization>cybersecure17</sonar.organization>
